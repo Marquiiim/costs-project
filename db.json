@@ -19,8 +19,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": null,
+      "services": [
+        {
+          "name": "Desenvolvedor experiente",
+          "cost": "1000",
+          "description": "Desenvolvedor experiente para auxiliar",
+          "id": "48c979f6-3bdc-40c0-9aea-1fe0aa74ce28"
+        }
+      ]
     }
   ],
   "categories": [
