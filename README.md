@@ -1,20 +1,39 @@
-# Costs
-## (CLONE DO ÚLTIMO REPOSTÓRIO, POIS ESTAVA COM UM PROBLEMA NO VERSIONAMENTO DO GIT E TIVE QUE CRIAR OUTRO REPOSITÓRIO!!!)
+# 💼 COSTS – Criador de Orçamentos para Projetos de Desenvolvimento
 
-**Costs** é uma plataforma web inovadora voltada para o planejamento e gestão de projetos com foco no controle de custos. Com **Costs**, é possível criar projetos, atribuir valores a cada etapa da sua execução e até mesmo contratar profissionais especializados para colaborar nas diversas fases do trabalho.
+**COSTS** é um projeto pessoal desenvolvido como parte da minha prática com **React.js**, com foco na criação de orçamentos personalizados para serviços de desenvolvimento de software, web e tecnologia em geral.
 
-## Funcionalidades
+---
 
-- **Criação de Projetos**: Defina e organize seu projeto, atribuindo valores detalhados para cada tarefa e fase.
-- **Gestão de Orçamento**: Acompanhe e monitore os custos em tempo real para garantir que o projeto esteja dentro do orçamento.
-- **Contratação de Profissionais**: Encontre e contrate especialistas para colaborar com seu projeto diretamente na plataforma.
-- **Interface Intuitiva**: Navegação fácil e fluida para criação e gerenciamento de projetos e custos.
-- **Atualizações em Tempo Real**: Veja as mudanças no orçamento e nas tarefas de maneira dinâmica e sem complicações.
+## 💡 Objetivo
 
-## Tecnologias
+Aplicar e consolidar os conhecimentos adquiridos em **React**, trabalhando com **componentização**, **hooks**, **manipulação de dados** e **comunicação com banco local**, simulando o fluxo real de uma aplicação de gerenciamento de orçamentos.
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+---
 
-- Frontend: React e suas tecnologias
-- Backend: Node.js
-- Banco de Dados: Banco de dados local, apenas para teste. (!!!npm run backend!!!)
+## ⚙️ Funcionalidades
+
+* 📝 **Criação de orçamentos personalizados**, com nome do projeto, valor estimado e descrição das funcionalidades
+* 🔄 **Edição e atualização em tempo real** dos dados cadastrados
+* 📂 **Persistência dos dados** simulada com **banco local (JSON)**, utilizando operações de leitura e escrita via API fake
+* 💻 **Interface amigável e responsiva**, desenvolvida com foco na usabilidade
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* ✅ **React.js** – Biblioteca principal para construção da interface
+* ✅ **JavaScript (ES6+)** – Manipulação de lógica e dados
+* ✅ **HTML5** – Estrutura semântica da aplicação
+* ✅ **CSS3** – Estilização da interface
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento do **COSTS**, enfrentei desafios importantes, especialmente:
+
+* Gerenciamento de estado e passagem de props entre componentes React
+* Manipulação de dados em um **banco de dados local (JSON Server)**
+* Implementação de requisições assíncronas e controle de respostas da API
+
+Esse projeto **não foi utilizado por nenhum cliente ou empresa real**, mas teve um papel fundamental na minha evolução como desenvolvedor front-end, proporcionando uma experiência prática com conceitos essenciais do ecossistema React.
