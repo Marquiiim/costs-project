@@ -13,7 +13,7 @@ import Projeto from './components/pages/Projeto'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/costs-project'>
       <Navbar />
 
       <Container customClass='min-height'>
